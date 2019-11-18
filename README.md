@@ -1,1 +1,1 @@
-# My own boilerplate
+# My own webpack boilerplate
